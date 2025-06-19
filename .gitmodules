@@ -1,0 +1,12 @@
+[submodule "Image-filter"]
+	path = Image-filter
+	url = https://github.com/salahmohamed03/Image-filter
+[submodule "Object-Segmentation"]
+	path = Object-Segmentation
+	url = https://github.com/Abdelrahman0Sayed/Object-Segmentation
+[submodule "Image-descriptor"]
+	path = Image-descriptor
+	url = https://github.com/salahmohamed03/Image-descriptor
+[submodule "Face-Recognition-and-Detection"]
+	path = Face-Recognition-and-Detection
+	url = https://github.com/Abdelrahman0Sayed/Face-Recognition-and-Detection
