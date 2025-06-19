@@ -10,3 +10,6 @@
 [submodule "Face-Recognition-and-Detection"]
 	path = Face-Recognition-and-Detection
 	url = https://github.com/Abdelrahman0Sayed/Face-Recognition-and-Detection
+[submodule "Image-Thresholding-Segmentation"]
+	path = Image-Thresholding-Segmentation
+	url = https://github.com/AhmeedRaafatt/Image-Thresholding-Segmentation
